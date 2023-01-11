@@ -1,0 +1,15 @@
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/bin/Debug/net7.0/example_console2
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/bin/Debug/net7.0/example_console2.deps.json
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/bin/Debug/net7.0/example_console2.runtimeconfig.json
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/bin/Debug/net7.0/example_console2.dll
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/bin/Debug/net7.0/example_console2.pdb
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/obj/Debug/net7.0/example_console2.csproj.AssemblyReference.cache
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/obj/Debug/net7.0/example_console2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/obj/Debug/net7.0/example_console2.AssemblyInfoInputs.cache
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/obj/Debug/net7.0/example_console2.AssemblyInfo.cs
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/obj/Debug/net7.0/example_console2.csproj.CoreCompileInputs.cache
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/obj/Debug/net7.0/example_console2.dll
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/obj/Debug/net7.0/refint/example_console2.dll
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/obj/Debug/net7.0/example_console2.pdb
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/obj/Debug/net7.0/example_console2.genruntimeconfig.cache
+/Users/kondratyevivan/Desktop/Git/Examples1/example_console2/obj/Debug/net7.0/ref/example_console2.dll
