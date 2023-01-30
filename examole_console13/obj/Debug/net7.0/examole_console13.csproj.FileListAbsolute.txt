@@ -1,0 +1,15 @@
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/obj/Debug/net7.0/examole_console13.csproj.AssemblyReference.cache
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/obj/Debug/net7.0/examole_console13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/obj/Debug/net7.0/examole_console13.AssemblyInfoInputs.cache
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/obj/Debug/net7.0/examole_console13.AssemblyInfo.cs
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/obj/Debug/net7.0/examole_console13.csproj.CoreCompileInputs.cache
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/bin/Debug/net7.0/examole_console13
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/bin/Debug/net7.0/examole_console13.deps.json
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/bin/Debug/net7.0/examole_console13.runtimeconfig.json
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/bin/Debug/net7.0/examole_console13.dll
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/bin/Debug/net7.0/examole_console13.pdb
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/obj/Debug/net7.0/examole_console13.dll
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/obj/Debug/net7.0/refint/examole_console13.dll
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/obj/Debug/net7.0/examole_console13.pdb
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/obj/Debug/net7.0/examole_console13.genruntimeconfig.cache
+/Users/kondratyevivan/Desktop/Git/Examples1/examole_console13/obj/Debug/net7.0/ref/examole_console13.dll
